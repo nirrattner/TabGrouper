@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  width: 300px;
+}
+
+.text-input {
+  margin: 15px 0 0;
+  width: 80%
+}
+
+.tab-group-list {
+  margin: 15px auto;
+  width: 90%
+}
+
